@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5494e8a1-b48b-4477-a577-df77998d7769" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ListIntroduction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapIntroduction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MapIntroduction2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListIntrodution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListIntrodution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TakesLonger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TakesLonger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UrlFixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UrlFixer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ttQRbP6zUmUIkt8xqAxmz699KJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MapIntroduction2">
+    <configuration name="ListIntroduction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListIntroduction2" />
+      <module name="WorkShop Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListIntrodution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListIntrodution1" />
+      <module name="WorkShop Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapIntroduction1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapIntroduction1" />
+      <module name="WorkShop Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapIntroduction2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapIntroduction2" />
+      <module name="WorkShop Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
+      <module name="WorkShop Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MapIntroduction2" />
+        <item itemvalue="Application.ListIntroduction2" />
+        <item itemvalue="Application.MapIntroduction1" />
+        <item itemvalue="Application.ListIntrodution1" />
+        <item itemvalue="Application.Reverse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5494e8a1-b48b-4477-a577-df77998d7769" name="Default Changelist" comment="" />
+      <created>1623585900479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623585900479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
